@@ -1,1 +1,1 @@
-# Front end for a face recognition app
+### Front end for a face recognition app
